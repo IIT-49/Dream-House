@@ -20,8 +20,10 @@
                 <li><a href="#about">About us</a></li>
                 <li><a href="#properties">Properties</a></li>
                 <li><a href="#services">Services</a></li>
-                <!-- <li><a href="contacting.php">Contact</a></li> -->
-                <li><a href="#" class="active">Register / Login</a></li>
+                <li><a class="active" href="contacting.php">Contact</a></li>
+                <li><a class="active" href="index.php">Log Out</a></li>
+
+                <!-- <li><a href="#" class="active">Register / Login</a></li>  -->
                 <li class="menu">Close</li>
             </ul>
             <div class="menu">Menu</div>
@@ -136,8 +138,9 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro01%</span>
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
     
@@ -151,8 +154,9 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro02%</span>
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
     
@@ -166,8 +170,9 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro03%</span>
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
     
@@ -181,8 +186,10 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro04%</span>
+
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
                     <div class="box">
@@ -192,13 +199,12 @@
                             <span>$199</span>
                             <p>Located in the heart of sought-after Kentfield, 11 Ash Avenue is a Kentfield original home with that enjoys all day sun and gorgeous views of Mount Tamalpais. Easy living is what it’s all about in this rare turnkey home with indoor/outdoor flow and walk-to-town location. In close proximity to everything that Greenbrae and Kentfield has to offer, including Bacich Elementary and Kent Middle Schools, local restaurants including Guesthouse, Gott’s Roadside and Patxi’s pizza, all right by highway 101 for easy commutes to San Francisco. With upon us, 11 Ash is the perfect home to enjoy this incredible Marin weather while being equipped with AC to counter Kentfield’s hottest days. </p>
                             <div class="details">
-                                
-                                <span>Code:Pro%5</span>
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro05%</span>
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
                     <div class="box">
@@ -211,8 +217,10 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro06%</span>
+
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
                 </div>
@@ -227,8 +235,9 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro07%</span>
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
     
@@ -242,8 +251,9 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro08%</span>
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
     
@@ -257,8 +267,9 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro09%</span>
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
     
@@ -272,8 +283,9 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro010%</span>
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
                     <div class="box">
@@ -286,8 +298,9 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro011%</span>
                             </div>
-                            <a href="#">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
                     <div class="box">
@@ -300,8 +313,9 @@
                                 <span>1200 sq ft</span>
                                 <span>4 bedrooms</span>
                                 <span>2 bathrooms</span>
+                                <span>pro012%</span>
                             </div>
-                            <a href="#log">BUY</a>
+                            <a href="contacting.php">BUY</a>
                         </div>
                     </div>
                 </div>
